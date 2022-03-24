@@ -3,6 +3,8 @@ import './App.css';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import HomePage from './Pages/HomePage/HomePage';
+import LoginPage from './Pages/LoginPage/LoginPage';
+
 import AboutPage
  from './Pages/AboutPage/AboutPage';
 import {
@@ -25,7 +27,8 @@ function App() {
           <Route path="home" element={<HomePage />}></Route>
           <Route path="/" element={<HomePage />}></Route>
           <Route path="about" element={<AboutPage />}/>
-          
+          <Route path="login" element={<LoginPage />}/>
+
         </Routes>
         <Footer/>
       </div>
