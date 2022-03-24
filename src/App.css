@@ -19,3 +19,9 @@ html {
 .primaryButton:hover {
   background-color: #2e7bcc;
 }
+
+.App {
+  background-image: url("./images/mydental-background.png");
+  background-size: cover;
+  min-height: 100vh;
+}
