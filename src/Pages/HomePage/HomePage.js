@@ -1,8 +1,8 @@
-
+import "./HomePage.css"
 function HomePage(props) {
 
     return (
-      <div>
+      <div className="homePage-container">
         <p>HomePage</p>
       </div>
     );
