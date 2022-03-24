@@ -1,0 +1,35 @@
+.headerTitle {
+  font-size: 23px;
+  color: white;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.headerContainer {
+  /* border: 1px solid black; */
+  /* background-color: #1970b0; */
+  margin-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.nav-link {
+  color: black;
+  margin-left: 12px;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.nav-link:hover {
+  color: #2f83da;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+}
