@@ -11,6 +11,8 @@ import BookAppointment from "./Pages/Profile/BookAppointment/BookAppointment";
 import MyMessages from "./Pages/Profile/MyMessages/MyMessages";
 import ContactUs from "./Pages/Profile/ContactUs/ContactUs";
 import ChatPage from "./Pages/Profile/ChatPage/ChatPage";
+import DoctorProfile from "./Pages/DoctorProfile/DoctorProfile";
+import StaffProfile from "./Pages/StaffProfile/StaffProfile";
 
 import {
   HashRouter as Router,
@@ -46,6 +48,10 @@ function App() {
           <Route path="myMessages" element={<MyMessages />} />
           <Route path="contactUs" element={<ContactUs />} />
           <Route path="chatPage" element={<ChatPage />} />
+          <Route path="doctorProfile" element={<DoctorProfile />} />
+          <Route path="staffProfile" element={<StaffProfile />} />
+
+
 
         </Routes>
         <Footer />
