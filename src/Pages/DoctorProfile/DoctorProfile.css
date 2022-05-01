@@ -1,0 +1,199 @@
+h1 {
+    color: black;
+    margin-left: 12px;
+    font-size: 18px;
+    text-decoration: none;
+    margin-right: 15px;
+    text-align: center;
+  }
+  
+  .Details-box {
+    width: 20px; /* you could actually just change it to 0px */
+    margin: 0;
+    margin-right: 0;
+    color: black;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: rgb(0, 0, 0);
+    text-align: right;
+    height: 180px;
+    width: 200px;
+    margin: auto;
+    width: 20%;
+    border: 3px solid rgb(175, 212, 241);
+    padding: 10px;
+    position: relative;
+    left: 450px;
+    bottom: -50px;
+  }
+  
+  .My-appointments {
+    position: relative;
+    left: -250px;
+    border: 5px solid #73ad21;
+    margin: 150px auto;
+    top:-100px;
+  
+    text-decoration: none;
+    appearance: none;
+    outline: 0;
+    background-color: rgb(164, 194, 211);
+    border: 100;
+    border-color: rgb(196, 194, 194);
+    padding: 10px 15px;
+    color: #080f0c;
+    border-radius: 20px;
+    width: 100px;
+    font-size: 40px;
+    height: 300px;
+   
+  }
+  
+  .My-appointments:hover {
+    color: #2f83da;
+    text-decoration: none;
+  }
+  
+  .My-doctor {
+      position: relative;
+      left:-300px;
+      border: 5px solid #73ad21;
+      margin: 150px auto;
+      top:-100px;
+    
+      text-decoration: none;
+      appearance: none;
+      outline: 0;
+      background-color: rgb(164, 194, 211);
+      border: 100;
+      border-color: rgb(196, 194, 194);
+      padding: 10px 15px;
+      color: #080f0c;
+      border-radius: 20px;
+      width: 100px;
+      font-size: 40px;
+      height: 300px;
+     
+    }
+    .My-doctor:hover {
+      color: #2f83da;
+      text-decoration: none;
+    }
+  
+    .Book-appointment {
+      position: relative;
+      left: 200px;
+      border: 5px solid #73ad21;
+      margin: 150px auto;
+      top:1px;
+    
+      text-decoration: none;
+      appearance: none;
+      outline: 0;
+      background-color: rgb(164, 194, 211);
+      border: 100;
+      border-color: rgb(196, 194, 194);
+      padding: 10px 15px;
+      color: #080f0c;
+      border-radius: 20px;
+      width: 100px;
+      font-size: 40px;
+      height: 300px;
+     
+    }
+    .Book-appointment:hover {
+      color: #2f83da;
+      text-decoration: none;
+    }
+  
+    
+    .My-messages {
+      position: relative;
+      left: 170px;
+      border: 5px solid #73ad21;
+      margin: 150px auto;
+      top:1px;
+    
+      text-decoration: none;
+      appearance: none;
+      outline: 0;
+      background-color: rgb(164, 194, 211);
+      border: 100;
+      border-color: rgb(196, 194, 194);
+      padding: 10px 15px;
+      color: #080f0c;
+      border-radius: 20px;
+      width: 100px;
+      font-size: 40px;
+      height: 300px;
+     
+    }
+    .My-messages:hover {
+      color: #2f83da;
+      text-decoration: none;
+    }
+  
+    .Contact-us {
+      position: relative;
+      left: 700px;
+      border: 5px solid #73ad21;
+      margin: 150px auto;
+      top:100px;
+    
+      text-decoration: none;
+      appearance: none;
+      outline: 0;
+      background-color: rgb(164, 194, 211);
+      border: 100;
+      border-color: rgb(196, 194, 194);
+      padding: 10px 15px;
+      color: #080f0c;
+      border-radius: 20px;
+      width: 100px;
+      font-size: 40px;
+      height: 300px;
+     
+    }
+    .Contact-us:hover {
+      color: #2f83da;
+      text-decoration: none;
+    }
+    
+   
+    .Chat-page {
+      position: relative;
+      left: 600px;
+      border: 5px solid #73ad21;
+      margin: 150px auto;
+      top:100px;
+    
+      text-decoration: none;
+      appearance: none;
+      outline: 0;
+      background-color: rgb(164, 194, 211);
+      border: 100;
+      border-color: rgb(196, 194, 194);
+      padding: 10px 15px;
+      color: #080f0c;
+      border-radius: 20px;
+      width: 100px;
+      font-size: 40px;
+      height: 300px;
+     
+    }
+    .Chat-page:hover {
+      color: #2f83da;
+      text-decoration: none;
+    }
+  
+  Link {
+    border-radius: 100px;
+  }
+  
+  img {
+    margin: auto;
+    height: 180px;
+    width: 150px;
+  }
+  
